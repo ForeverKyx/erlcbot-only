@@ -58,5 +58,5 @@ client.on('messageCreate', async (message) => {
   }
 });
 
-const BOT_TOKEN = 'MTIwMTg5MzcyNDA4MzQ3MDMzNw.G5xiny.OJf3Tl_OkYMv3BbhtNFJ1YPfybpI1HvTWFOFWQ';
+const BOT_TOKEN = 'BOT1_TOKEN';
 client.login(BOT_TOKEN);
