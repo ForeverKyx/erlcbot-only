@@ -58,5 +58,5 @@ client.on('messageCreate', async (message) => {
   }
 });
 
-const BOT_TOKEN = 'MTIwMTg5MzcyNDA4MzQ3MDMzNw.G8rXdi.YYrf8fbIHCuP9UcGyq7vg7e4qBkrC4IsrM7C4Q';
+const BOT_TOKEN = 'MTIwMTg5MzcyNDA4MzQ3MDMzNw.G5xiny.OJf3Tl_OkYMv3BbhtNFJ1YPfybpI1HvTWFOFWQ';
 client.login(BOT_TOKEN);
